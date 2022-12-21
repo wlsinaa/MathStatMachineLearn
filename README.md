@@ -6,9 +6,9 @@ In this study, predicting revenue of movie is performed using linear regression,
 
 ## File
 1. Project.pdf
-- Final report submission
+    - Final report submission
 2. code.ipynb
-- Jupyternote file
+    - Jupyternote file
 3. data_final.csv
-- data source
+    - data source
 
